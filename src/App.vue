@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-
+    <h2>我来了</h2>
   </div>
 </template>
 
